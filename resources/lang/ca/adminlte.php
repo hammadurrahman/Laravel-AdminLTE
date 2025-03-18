@@ -19,3 +19,4 @@ return [
     'reset_password' => 'Restablir la contrasenya',
     'send_password_reset_link' => 'Enviar enllaç de restabliment de contrasenya',
 ];
+ 'password_reset_message' => 'Restablir la contrasenya',
